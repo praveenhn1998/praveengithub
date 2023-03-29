@@ -1,0 +1,13 @@
+public class A {
+    public static void main(String[] args){
+        int[] arr={1,6,3,8,6};
+        int largest=arr[0];
+
+        for(int i=1,i<x.length,i++){
+            if(arr[i]< largest){
+                largest=arr[i];
+            }
+        }
+        system.out.println("largest element in array is:"+largest);
+    }
+}
